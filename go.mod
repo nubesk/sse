@@ -1,4 +1,4 @@
-module github.com/sse
+module github.com/nubesk/sse
 
 go 1.17
 
